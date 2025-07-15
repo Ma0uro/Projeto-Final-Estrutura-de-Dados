@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1752615738 source:c:\users\i5\desktop\trabalhoed\modulos\arquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Bibliotecas/Estruturas.h"
+	"../Bibliotecas/ProdutosLDE.h"
+	"../Bibliotecas/MateriasPLD.h"
+	"../Bibliotecas/MateriaPARVOREAVL.h"
+	"../Bibliotecas/Arquivos.h"
+
+1752595304 c:\users\i5\desktop\trabalhoed\bibliotecas\estruturas.h
+
+1752619238 c:\users\i5\desktop\trabalhoed\bibliotecas\produtoslde.h
+
+1752619058 c:\users\i5\desktop\trabalhoed\bibliotecas\materiaspld.h
+	"Estruturas.h"
+
+1752618998 c:\users\i5\desktop\trabalhoed\bibliotecas\materiaparvoreavl.h
+	"Estruturas.h"
+
+1752618814 c:\users\i5\desktop\trabalhoed\bibliotecas\arquivos.h
+	"Estruturas.h"
+	<stdio.h>
+
+1752613038 source:c:\users\i5\desktop\trabalhoed\modulos\estruturas.c
+	"../Bibliotecas/Estruturas.h"
+	<stdio.h>
+
+1752618638 source:c:\users\i5\desktop\trabalhoed\modulos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Bibliotecas/Estruturas.h"
+	"../Bibliotecas/ProdutosLDE.h"
+	"../Bibliotecas/MateriasPLD.h"
+	"../Bibliotecas/MateriaPARVOREAVL.h"
+	"../Bibliotecas/Arquivos.h"
+	"../Bibliotecas/Menu.h"
+
+1752618768 c:\users\i5\desktop\trabalhoed\bibliotecas\menu.h
+	"Estruturas.h"
+	<stdio.h>
+
+1752613108 source:c:\users\i5\desktop\trabalhoed\modulos\materiaparvoreavl.c
+	"../Bibliotecas/MateriaPARVOREAVL.h"
+	"../Bibliotecas/Estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1752613128 source:c:\users\i5\desktop\trabalhoed\modulos\materiaspld.c
+	"../Bibliotecas/MateriasPLD.h"
+	"../Bibliotecas/MateriaPARVOREAVL.h"
+	"../Bibliotecas/Estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1752618572 source:c:\users\i5\desktop\trabalhoed\modulos\menu.c
+	"../Bibliotecas/Menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Bibliotecas/Estruturas.h"
+	"../Bibliotecas/ProdutosLDE.h"
+	"../Bibliotecas/MateriasPLD.h"
+	"../Bibliotecas/MateriaPARVOREAVL.h"
+
+1752613160 source:c:\users\i5\desktop\trabalhoed\modulos\produtoslde.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Bibliotecas/Estruturas.h"
+	"../Bibliotecas/ProdutosLDE.h"
+	"../Bibliotecas/MateriasPLD.h"
+	"../Bibliotecas/MateriaPARVOREAVL.h"
+
